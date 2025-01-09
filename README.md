@@ -2,6 +2,5 @@
 
 Irkon Panelindo Produk
 
-#### License
+ERP
 
-mit
